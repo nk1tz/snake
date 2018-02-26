@@ -1,0 +1,7 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<nkitzke@shutterstock.com>",
+  "license": "MIT"
+}
